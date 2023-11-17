@@ -22,3 +22,10 @@ multiply(2,2)
 ```
 ## I don't have commercial experience yet, but i have some pet projects:
 [my flower shop](https://flora-shop-by-brichevaa.netlify.app/)
+[uber](https://brichevaa.github.io/uber/)
+
+## Education: 
+* 2009-2014 - Novosibirsk State Architectural and Art Academy, Novosibirsk
+
+## English Language: B1
+* september 2022 - may 2023 - course “front-end developer” from Sberbank University, Moscow
