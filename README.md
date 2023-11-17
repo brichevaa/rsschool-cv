@@ -1,1 +1,1 @@
-# https://brichevaa.github.io/rsschool-cv/cv
+# https://brichevaa.github.io/rsschool-cv/
