@@ -26,6 +26,6 @@ multiply(2,2)
 
 ## Education: 
 * 2009-2014 - Novosibirsk State Architectural and Art Academy, Novosibirsk
-
-## English Language: B1
 * september 2022 - may 2023 - course “front-end developer” from Sberbank University, Moscow
+
+### English Language: B1
